@@ -1,0 +1,63 @@
+/* img slider  */
+.carousel-caption-color{
+    color:#ffffff;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+/* extra section  */
+.first-extra{
+    margin-top: 6rem;
+}
+.sm-height{
+    height: 500px;
+}
+/* button  */
+.btn a{
+    text-decoration: none;
+    color: #000;
+}
+.p-text-dark{
+    color: #000;
+}
+.toast-border{
+    border-left: 5px solid blue;
+}
+/* card css */
+.card-bg{
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+.card-bg-hot{
+    margin-top: 6px;
+    box-shadow: 5px 5px 5px whitesmoke;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #3ff5dd;
+    position: relative;
+    bottom: 10px;
+    transform: scaleY(1.05);
+}
+.footer-section{
+    height: 300px;
+}
+.play-icons{
+    width: 8rem;    
+}
+
+.apple-icon{
+    position: relative;
+    bottom: 4rem;
+}
+.icons-app{
+    margin-top: 2rem;
+    
+}
+.social-icon{
+    font-size: 3rem;
+    padding: 2rem;
+    color: gray;
+}
+.social{
+    height: 32rem;
+}
